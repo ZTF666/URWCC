@@ -43,11 +43,11 @@ THE SHOPS UNLIKED IN THE NEARBY SHOPS PAGE WILL AUTOMATICALLY BE VISIBLE AFTER 2
 
 
 
-![alt text](https://raw.githubusercontent.com/ZTF666/URWCC/ScreenShots/1.png)
-![alt text](https://raw.githubusercontent.com/ZTF666/URWCC/ScreenShots/2.png)
-![alt text](https://raw.githubusercontent.com/ZTF666/URWCC/ScreenShots/3.png)
-![alt text](https://raw.githubusercontent.com/ZTF666/URWCC/ScreenShots/4.png)
-![alt text](https://raw.githubusercontent.com/ZTF666/URWCC/ScreenShots/5.png)
+![alt text](ScreenShots/1.png)
+![alt text](ScreenShots/2.png)
+![alt text](ScreenShots/3.png)
+![alt text](ScreenShots/4.png)
+![alt text](ScreenShots/5.png)
 
 
 
