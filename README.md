@@ -1,16 +1,16 @@
-#**PRESENTATION**
-**This is an app developed for a web coding challenge **.
+#**PRESENTATION**;
+**This is an app developed for a web coding challenge **.;
 
-_The web app is developed using_ :
+_The web app is developed using_:;
 
-*PURE OOP PHP (no framework included) .
-*BOOTSTRAP.
-*MYSQL.
-*JAVASCRIPT.
-*GOOGLE PLACES API (javascript SDK).
+PURE OOP PHP (no framework included);
+BOOTSTRAP;
+MYSQL;
+JAVASCRIPT;
+GOOGLE PLACES API (javascript SDK);
 
 #**STRUCTURE OF THE FOLDERS**
-
+```
 [''
 |-- API',
   '    |   |-- Init.js',
@@ -51,12 +51,12 @@ _The web app is developed using_ :
   '        |-- 4.png',
   '        |-- 5.png',
   '' ]
+```
 
 
-*****************************************************************************************************************************************************
-#**HOW TO USE IT** :
+#**HOW TO USE IT** :;
 
--IMPORT THE MYSQL DB FILE FROM : DBFolder 
+-IMPORT THE MYSQL DB FILE FROM : DBFolder
 -CHANGE THE DB NAME,USER,PWD IN THE /BACK/CLASSES/CONNEXION.PHP FILE .
 
 -FIRE UP YOUR APACHE SERVER.
@@ -82,7 +82,7 @@ _The web app is developed using_ :
 -THE SHOPS WILL AUTOMATICALLY BE REMOVED ONCE YOU LOGGED OFF , SO IF YOU CHANGE YOUR LOCATION JUST SIGN OFF && SIGN IN OR RE-FETCH NEARBY SHOPS ONCE MORE .
 
 -THE SHOPS UNLIKED IN THE NEARBY SHOPS PAGE WILL AUTOMATICALLY BE VISIBLE AFTER 2H .
--*****************************************************************************************************************************************************
+
 
 
 
@@ -95,7 +95,7 @@ _The web app is developed using_ :
 
 
 
--*****************************************************************************************************************************************************
+
 
 
 ######**for any further explanation please contact me @ Elatif.n@gmail.com || Devotor@protonmail.ch **
