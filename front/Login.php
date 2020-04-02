@@ -1,16 +1,20 @@
 <html>
+
 <head>
-<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<script src="js-scripts/login-script.js"></script>
-<link rel="stylesheet" href="css/login.css" />
+	<meta charset="utf-8">
+	<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+	<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+	<script src="js-scripts/login-script.js"></script>
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="css/login.css" />
 </head>
 <!------ Include the above in your HEAD tag ---------->
 <title>Nearby Shops</title>
+
 <body>
-<div class="container">
-    	<div class="row">
+	<div class="container">
+		<div class="row">
 			<div class="col-md-6 col-md-offset-3">
 				<div class="panel panel-login">
 					<div class="panel-heading">
@@ -34,7 +38,7 @@
 									<div class="form-group">
 										<input type="password" name="password" id="password" tabindex="2" class="form-control" placeholder="Password">
 									</div>
-									
+
 									<div class="form-group">
 										<div class="row">
 											<div class="col-sm-6 col-sm-offset-3">
@@ -42,7 +46,7 @@
 											</div>
 										</div>
 									</div>
-									
+
 								</form>
 								<form id="register-form" action="../back/Classes/Athentification.php" method="post" role="form" style="display: none;">
 									<div class="form-group">
@@ -54,7 +58,7 @@
 									<div class="form-group">
 										<input type="password" name="password" id="password" tabindex="2" class="form-control" placeholder="Password">
 									</div>
-									
+
 									<div class="form-group">
 										<div class="row">
 											<div class="col-sm-6 col-sm-offset-3">
@@ -69,6 +73,7 @@
 				</div>
 			</div>
 		</div>
-    </div>
-    </body>
+	</div>
+</body>
+
 </html>
